@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ethan</h1>
-<h3 align="center">A full-stack developer who's open to learning more</h3>
+<h3 align="center">Full-stack developer, learner, explorer</h3>
 
 - 🔭 I’m currently working on [Redstone](https://www.redstone.markets/)
 
