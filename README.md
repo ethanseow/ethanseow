@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning: **AWS, NextJS**
 
-- 💬 Ask me about: **react, python, typescript**
+- 💬 Ask me about: **Docker, Pytest, TimescaleDB**
 
 - 📫 How to reach me: **ethanseow00@gmail.com**
 
